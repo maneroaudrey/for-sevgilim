@@ -134,7 +134,7 @@
   <p><em>“One Only” – Pamungkas</em></p>
 </div>
 
-<div class="secret" id="secretMessage">
+</div class="secret" id="secretMessage">
   💞 <strong>For Sev Only:</strong>
   <p>
     I am so sure about you.<br>
@@ -150,7 +150,7 @@
   </p>
 </div>
 
-<button onclick="alert('I love you so much, Sev ❤️')">
+<button onclick="alert('See you, Sev ❤️')">
   Click me 🥰
 </button>
 
