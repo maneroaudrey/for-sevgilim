@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -136,28 +135,28 @@
 </div>
 
     <div class="secret" id="secretMessage">
-      💞 <strong>For Sev Only:</strong>
-      <p>
-        I am so sure about you.<br>
-        There is no doubt in my heart that you are the one I choose,
-        every day and in every lifetime.
-      </p>
-      <p>
-        I can’t wait to be your wife someday.
-        well asawa na kita sa kwento 'ko hehehehhe
-      </p>
-      <p>
-        You are my one and only, Baby❤️
-      </p>
-    </div>
+  💞 <strong>For Sev Only:</strong>
+  <p>
+    I am so sure about you.<br>
+    There is no doubt in my heart that you are the one I choose,
+    every day and in every lifetime.
+  </p>
+  <p>
+    I can’t wait to be your wife someday.
+    well asawa na kita sa kwento 'ko hehehehhe
+  </p>
+  <p>
+    You are my one and only, Baby❤️
+  </p>
+</div>
 
-    <button onclick="alert('I love you so much, Sev ❤️')">
-      Click me 🥰
-    </button>
+<button onclick="alert('I love you so much, Sev ❤️')">
+  Click me 🥰
+</button>
 
-    <footer>
-      Made with love 💌
-    </footer>
+<footer>
+  Made with love 💌
+</footer>
   </div>
 
   <script>
