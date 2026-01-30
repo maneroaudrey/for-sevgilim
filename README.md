@@ -102,12 +102,13 @@
 
     <div class="letter">
       <p>
-        Sev, I just want you to know that I love you so much.
-        You mean more to me than words can explain.
-        Every day, you make my life brighter, happier, and warmer.
+        Sev, I just want you to know that I'm so lucky to have you.
+        You mean so much to me.
+        I can't lose you again. Never again. 
+        
       </p>
       <p>
-        Even if you’re far away, I’ll make sure you always feel how much I love you.
+        Even if you’re far away, I’ll make sure you always feel how much I care.
       </p>
       <p>
         <strong>See you soon, baby.</strong> 💖
@@ -115,7 +116,7 @@
     </div>
 
     <div class="countdown">
-      ⏳ <span id="timer"></span> until I see you, baby 🥰
+      ⏳ <span id="timer"></span> until I see you, Sev 🥰
     </div>
 
     <div class="daily-message">
@@ -150,7 +151,7 @@
   </p>
 </div>
 
-<button onclick="alert('See you, Sev ❤️')">
+<button onclick="alert('I Love You more than you could ever know, Sev ❤️')">
   Click me 🥰
 </button>
 
